@@ -627,7 +627,7 @@ public class BleBackgroundPowerSaverApp extends Application {
 
 ## API 문서
 상세한 API는 아래 문서를 참고해주시기 바랍니다.
-[API 문서 바로가기](https://buildit-lab.github.io/buildthing-beacon-sdk-android/)
+[API 문서 바로가기](https://buildit-lab.github.io/buildthing-ble-sdk-android/)
 
 ## Scan Response
 BuildThing beacon 스캔 수행 시, Scan Response로 수신되는 Service UUID와 Service 별 수신 값은 아래와 같습니다.
